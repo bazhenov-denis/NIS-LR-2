@@ -1,0 +1,4 @@
+repository "LR-1@denisbazhenov@cloud"
+  path "/"
+    br "/main"
+    co "/main"
