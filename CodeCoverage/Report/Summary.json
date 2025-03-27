@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "generatedon": "2025-03-27T14:42:59Z",
+    "parser": "MultiReportParser (2x OpenCoverParser)",
+    "assemblies": 2,
+    "classes": 9,
+    "files": 9,
+    "coveredlines": 758,
+    "uncoveredlines": 151,
+    "coverablelines": 909,
+    "totallines": 1565,
+    "linecoverage": 83.3,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 65,
+    "totalmethods": 67,
+    "methodcoverage": 97
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "NewAssembly", "classes": 4, "coverage": 72.3, "coveredlines": 377, "coverablelines": 521, "totallines": 768, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 94.7, "coveredmethods": 36, "totalmethods": 38, "classesinassembly": [
+        { "name": "Cell", "coverage": 100, "coveredlines": 21, "coverablelines": 21, "totallines": 44, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 },
+        { "name": "CellView", "coverage": 90, "coveredlines": 45, "coverablelines": 50, "totallines": 77, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 6, "totalmethods": 6 },
+        { "name": "GameField", "coverage": 71.6, "coveredlines": 278, "coverablelines": 388, "totallines": 555, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 90.4, "coveredmethods": 19, "totalmethods": 21 },
+        { "name": "InputManager", "coverage": 53.2, "coveredlines": 33, "coverablelines": 62, "totallines": 92, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 6, "totalmethods": 6 } ] },
+      { "name": "Tests", "classes": 5, "coverage": 98.1, "coveredlines": 381, "coverablelines": 388, "totallines": 797, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 29, "totalmethods": 29, "classesinassembly": [
+        { "name": "CellTests", "coverage": 100, "coveredlines": 25, "coverablelines": 25, "totallines": 52, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 2, "totalmethods": 2 },
+        { "name": "CellViewPlayModeTests", "coverage": 100, "coveredlines": 82, "coverablelines": 82, "totallines": 183, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 7, "totalmethods": 7 },
+        { "name": "GameFieldPlayModeTests", "coverage": 100, "coveredlines": 174, "coverablelines": 174, "totallines": 360, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 13, "totalmethods": 13 },
+        { "name": "GameStateTests", "coverage": 100, "coveredlines": 22, "coverablelines": 22, "totallines": 44, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 1, "totalmethods": 1 },
+        { "name": "InputManagerPlayModeTests", "coverage": 91.7, "coveredlines": 78, "coverablelines": 85, "totallines": 158, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 6, "totalmethods": 6 } ] } ]
+  }
+}

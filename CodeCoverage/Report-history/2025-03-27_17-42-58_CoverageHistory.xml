@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2025-03-27_17-42-58" tag="">
+  <assembly name="NewAssembly">
+    <class name="Cell" coveredlines="21" coverablelines="21" totallines="44" coveredbranches="0" totalbranches="0" />
+    <class name="CellView" coveredlines="45" coverablelines="50" totallines="77" coveredbranches="0" totalbranches="0" />
+    <class name="GameField" coveredlines="278" coverablelines="388" totallines="555" coveredbranches="0" totalbranches="0" />
+    <class name="InputManager" coveredlines="33" coverablelines="62" totallines="92" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Tests">
+    <class name="CellTests" coveredlines="25" coverablelines="25" totallines="52" coveredbranches="0" totalbranches="0" />
+    <class name="CellViewPlayModeTests" coveredlines="82" coverablelines="82" totallines="183" coveredbranches="0" totalbranches="0" />
+    <class name="GameFieldPlayModeTests" coveredlines="174" coverablelines="174" totallines="360" coveredbranches="0" totalbranches="0" />
+    <class name="GameStateTests" coveredlines="22" coverablelines="22" totallines="44" coveredbranches="0" totalbranches="0" />
+    <class name="InputManagerPlayModeTests" coveredlines="78" coverablelines="85" totallines="158" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

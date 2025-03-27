@@ -38,6 +38,11 @@ public class GameField : MonoBehaviour
     private void Awake()
     {
         // Инициализация массивов
+
+    }
+
+    public void Start()
+    {
         placeholders = new Transform[fieldSize, fieldSize];
         cellGrid = new Cell[fieldSize, fieldSize];
 
@@ -50,10 +55,6 @@ public class GameField : MonoBehaviour
                 childIndex++;
             }
         }
-    }
-
-    private void Start()
-    {
         // Попытка загрузки сохраненного состояния (если файл существует)
         LoadGame();
 
